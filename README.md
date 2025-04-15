@@ -3,9 +3,9 @@ In this project, we trained a classifier model based on a dataset of cancer cell
 
 At the end of the presentation, the intention was to provide an overview of machine learning models applied to breast cancer diagnosis. As we have seen, the use of these techniques can act as an aid to the expert eye of the physician, allowing for faster and more efficient diagnosis, and thus reducing the risk of false diagnoses, increasing patients' chances of recovery. However, it is important to be aware of the challenges and limitations of using machine learning in the medical field, such as the risk of overfitting. By continuing to explore these techniques and develop new methodologies, we can pave the way for even more accurate and personalised diagnosis, further improving patients' quality of life and the progress of medical research.
 
-# Autors
-Nticha Sara
-Di Siervi Giuseppe
-Iacuone Diego
-Kulesko Michele
+Autors:
+Nticha Sara,
+Di Siervi Giuseppe,
+Iacuone Diego,
+Kulesko Michele,
 Moriconi Daniele
